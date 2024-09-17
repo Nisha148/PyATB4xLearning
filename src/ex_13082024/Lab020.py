@@ -1,0 +1,2 @@
+long_variable_name_is_created_here= 2
+print(long_variable_name_is_created_here)

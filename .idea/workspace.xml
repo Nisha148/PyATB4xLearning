@@ -4,8 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba49d5f2-5f13-4f85-90fc-c4a7d7a4813a" name="Changes" comment="All the files for the 13th Aug 2024 added">
-      <change afterPath="$PROJECT_DIR$/src/Home_Work_13/Home_1.py" afterDir="false" />
+    <list default="true" id="ba49d5f2-5f13-4f85-90fc-c4a7d7a4813a" name="Changes" comment="HomeWork files for the 13th Aug 2024 added">
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab026.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab027.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab028.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab029.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab030.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab031.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab032.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab033.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +80,13 @@
     "Python.Lab023.executor": "Run",
     "Python.Lab024.executor": "Run",
     "Python.Lab025.executor": "Run",
+    "Python.Lab027.executor": "Run",
+    "Python.Lab028.executor": "Run",
+    "Python.Lab029.executor": "Run",
+    "Python.Lab030.executor": "Run",
+    "Python.Lab031.executor": "Run",
+    "Python.Lab032.executor": "Run",
+    "Python.Lab033.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "preferences.lookFeel"
@@ -118,14 +132,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726581595469</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="HomeWork files for the 13th Aug 2024 added">
+      <option name="closed" value="true" />
+      <created>1726582908741</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726582908741</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab002 Added" />
     <MESSAGE value="All the files for the 10th Aug 2024 added" />
     <MESSAGE value="All the files for the 13th Aug 2024 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="All the files for the 13th Aug 2024 added" />
+    <MESSAGE value="HomeWork files for the 13th Aug 2024 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork files for the 13th Aug 2024 added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

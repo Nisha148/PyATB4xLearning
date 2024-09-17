@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba49d5f2-5f13-4f85-90fc-c4a7d7a4813a" name="Changes" comment="All the files for the 10th Aug 2024 added">
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab0014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab0015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab0016.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab017.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab019.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab023.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab025.py" afterDir="false" />
+    <list default="true" id="ba49d5f2-5f13-4f85-90fc-c4a7d7a4813a" name="Changes" comment="All the files for the 13th Aug 2024 added">
+      <change afterPath="$PROJECT_DIR$/src/Home_Work_13/Home_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +48,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Home_1.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab0014.executor": "Run",
     "Python.Lab0015.executor": "Run",
@@ -120,13 +110,22 @@
       <option name="project" value="LOCAL" />
       <updated>1726335665052</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="All the files for the 13th Aug 2024 added">
+      <option name="closed" value="true" />
+      <created>1726581595469</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726581595469</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab002 Added" />
     <MESSAGE value="All the files for the 10th Aug 2024 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="All the files for the 10th Aug 2024 added" />
+    <MESSAGE value="All the files for the 13th Aug 2024 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="All the files for the 13th Aug 2024 added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

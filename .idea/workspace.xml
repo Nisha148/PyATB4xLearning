@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba49d5f2-5f13-4f85-90fc-c4a7d7a4813a" name="Changes" comment="HomeWork files for the 17th Aug 2024 added">
-      <change afterPath="$PROJECT_DIR$/src/exe_20082024/Lab034.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exe_20082024/Lab035.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exe_20082024/Lab036.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exe_20082024/Lab037.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exe_20082024/Lab038.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exe_20082024/Lab039.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exe_20082024/Lab040.py" afterDir="false" />
+    <list default="true" id="ba49d5f2-5f13-4f85-90fc-c4a7d7a4813a" name="Changes" comment="HomeWork files for the 20th Aug 2024 added">
+      <change afterPath="$PROJECT_DIR$/src/Home_Work/Home_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Home_Work_13/Home_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Home_Work/Home_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +50,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Home_1.executor": "Run",
+    "Python.Home_2.executor": "Run",
+    "Python.Home_3.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab0014.executor": "Run",
     "Python.Lab0015.executor": "Run",
@@ -92,13 +89,35 @@
     "Python.Lab037.executor": "Run",
     "Python.Lab038.executor": "Run",
     "Python.Lab039.executor": "Run",
-    "Python.Lab040.executor": "Debug",
+    "Python.Lab040.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RunManager">
+    <configuration name="Home_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB4xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Home_Work" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Home_Work/Home_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Lab040" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xLearning" />
       <option name="ENV_FILES" value="" />
@@ -123,6 +142,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Home_2" />
         <item itemvalue="Python.Lab040" />
       </list>
     </recent_temporary>
@@ -183,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726592005614</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="HomeWork files for the 20th Aug 2024 added">
+      <option name="closed" value="true" />
+      <created>1727113445603</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727113445603</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -192,7 +220,8 @@
     <MESSAGE value="All the files for the 13th Aug 2024 added" />
     <MESSAGE value="HomeWork files for the 13th Aug 2024 added" />
     <MESSAGE value="HomeWork files for the 17th Aug 2024 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="HomeWork files for the 17th Aug 2024 added" />
+    <MESSAGE value="HomeWork files for the 20th Aug 2024 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork files for the 20th Aug 2024 added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba49d5f2-5f13-4f85-90fc-c4a7d7a4813a" name="Changes" comment="HomeWork files for the 20th Aug 2024 added">
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab041.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab042.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab043.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab044.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab045.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab046.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab047.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab049.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab050.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab051.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab052.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab053.py" afterDir="false" />
+    <list default="true" id="ba49d5f2-5f13-4f85-90fc-c4a7d7a4813a" name="Changes" comment="class files for the 22th Aug 2024 added">
+      <change afterPath="$PROJECT_DIR$/src/Home_Work/Home_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +48,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.1.executor": "Run",
+    "Python.2.executor": "Run",
     "Python.Home_1.executor": "Run",
     "Python.Home_2.executor": "Run",
     "Python.Home_3.executor": "Run",
@@ -243,7 +233,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727115443461</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="class files for the 22th Aug 2024 added">
+      <option name="closed" value="true" />
+      <created>1727204650097</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1727204650097</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -253,7 +251,8 @@
     <MESSAGE value="HomeWork files for the 13th Aug 2024 added" />
     <MESSAGE value="HomeWork files for the 17th Aug 2024 added" />
     <MESSAGE value="HomeWork files for the 20th Aug 2024 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="HomeWork files for the 20th Aug 2024 added" />
+    <MESSAGE value="class files for the 22th Aug 2024 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="class files for the 22th Aug 2024 added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -27,7 +27,7 @@ else:
 
 # Task 8
 
-for i in range(1, 100):
+for i in range(1, 101):
     if i % 3 == 0:
         print("Fizz")
     elif i % 5 == 0:
@@ -36,3 +36,12 @@ for i in range(1, 100):
         print("FizzBuzz")
     else:
         print(i)
+
+#Task 9
+
+num = int(input("Enter the number"))
+print(num)
+fact = 1
+for i in range(1, num + 1, 1):
+    fact = fact * i
+print(fact)

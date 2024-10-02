@@ -5,26 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba49d5f2-5f13-4f85-90fc-c4a7d7a4813a" name="Changes" comment="Homework files for the 24th Aug 2024 added">
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab068.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab069.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab070.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab071.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab072.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab073.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab074.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab075.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab076.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab077.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab078.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab079.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab080.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab081.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab082.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab083.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab084.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab085.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab086.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab087.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab088.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab089.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab090.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab091.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab092.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab093.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab094.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab095.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab096.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab097.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab098.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab099.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab101.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab102.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab103.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab104.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab105.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab106.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab107.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab108.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -157,6 +158,27 @@
     "Python.Lab085.executor": "Run",
     "Python.Lab086.executor": "Run",
     "Python.Lab087.executor": "Run",
+    "Python.Lab088.executor": "Run",
+    "Python.Lab089.executor": "Run",
+    "Python.Lab090.executor": "Run",
+    "Python.Lab091.executor": "Run",
+    "Python.Lab092.executor": "Run",
+    "Python.Lab093.executor": "Run",
+    "Python.Lab094.executor": "Run",
+    "Python.Lab095.executor": "Run",
+    "Python.Lab096.executor": "Run",
+    "Python.Lab097.executor": "Run",
+    "Python.Lab098.executor": "Run",
+    "Python.Lab099.executor": "Run",
+    "Python.Lab100.executor": "Run",
+    "Python.Lab101.executor": "Run",
+    "Python.Lab102.executor": "Run",
+    "Python.Lab103.executor": "Run",
+    "Python.Lab104.executor": "Run",
+    "Python.Lab105.executor": "Run",
+    "Python.Lab106.executor": "Run",
+    "Python.Lab107.executor": "Run",
+    "Python.Lab108.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "preferences.lookFeel"

@@ -1,4 +1,4 @@
-from src.ex_29082024.Lab088 import my_list
+from src.Aug.ex_29082024.Lab088 import my_list
 
 my_list.insert(1,"Dutta")
 print(my_list)

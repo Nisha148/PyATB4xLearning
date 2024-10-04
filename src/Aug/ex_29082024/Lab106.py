@@ -1,5 +1,3 @@
-from src.ex_29082024.Lab088 import my_list
-
 t=("Thetestingacademy","for","Thetestingacademy")
 print(t)
 print(set(t))

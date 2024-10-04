@@ -1,4 +1,4 @@
-from src.ex_29082024.Lab088 import my_list
+from src.Aug.ex_29082024.Lab088 import my_list
 
 my_list[0]="pramod"
 my_list[1]="Dutta"

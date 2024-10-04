@@ -4,13 +4,143 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba49d5f2-5f13-4f85-90fc-c4a7d7a4813a" name="Changes" comment="homework files for the 29th Aug 2024 added">
-      <change afterPath="$PROJECT_DIR$/src/Home_Work/Home_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab109.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab110.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab111.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab112.py" afterDir="false" />
+    <list default="true" id="ba49d5f2-5f13-4f85-90fc-c4a7d7a4813a" name="Changes" comment="class files for the 31st Aug 2024 added">
+      <change afterPath="$PROJECT_DIR$/src/Aug/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_08082024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_10082024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_13082024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_20082024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_22082024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_24082024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_27082024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_29082024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_31082024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep/ex_02092024/Lab113.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep/ex_02092024/Lab114.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep/ex_02092024/Lab115.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep/ex_02092024/Lab116.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep/ex_02092024/Lab117.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep/ex_02092024/Lab118.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep/ex_02092024/Lab119.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep/ex_02092024/Lab120.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep/ex_02092024/Lab121.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Home_Work/Home_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Home_Work/Home_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_08082024/Lab001.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_08082024/Lab001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_08082024/Lab002.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_08082024/Lab002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_10082024/Lab003.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_10082024/Lab003.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_10082024/Lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_10082024/Lab004.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_10082024/Lab005.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_10082024/Lab005.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_10082024/Lab006.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_10082024/Lab006.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_10082024/Lab007.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_10082024/Lab007.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_10082024/Lab008.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_10082024/Lab008.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_10082024/Lab009.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_10082024/Lab009.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_10082024/Lab010.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_10082024/Lab010.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_10082024/Lab011.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_10082024/Lab011.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_10082024/Lab012.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_10082024/Lab012.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_10082024/Lab013.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_10082024/Lab013.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab0014.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_13082024/Lab0014.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab0015.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_13082024/Lab0015.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab0016.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_13082024/Lab0016.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab017.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_13082024/Lab017.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab018.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_13082024/Lab018.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab019.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_13082024/Lab019.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab020.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_13082024/Lab020.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab021.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_13082024/Lab021.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab022.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_13082024/Lab022.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab023.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_13082024/Lab023.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab024.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_13082024/Lab024.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab025.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_13082024/Lab025.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_17082024/Lab026.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab026.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_17082024/Lab027.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab027.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_17082024/Lab028.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab028.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_17082024/Lab029.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab029.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_17082024/Lab030.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab030.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_17082024/Lab031.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab031.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_17082024/Lab032.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab032.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_17082024/Lab033.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab033.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20082024/Lab034.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_20082024/Lab034.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20082024/Lab035.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_20082024/Lab035.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20082024/Lab036.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_20082024/Lab036.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20082024/Lab037.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_20082024/Lab037.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20082024/Lab038.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_20082024/Lab038.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20082024/Lab039.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_20082024/Lab039.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20082024/Lab040.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_20082024/Lab040.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_22082024/Lab041.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_22082024/Lab041.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_22082024/Lab042.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_22082024/Lab042.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_22082024/Lab043.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_22082024/Lab043.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_22082024/Lab044.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_22082024/Lab044.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_22082024/Lab045.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_22082024/Lab045.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_22082024/Lab046.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_22082024/Lab046.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_22082024/Lab047.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_22082024/Lab047.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_22082024/Lab048.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_22082024/Lab048.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_22082024/Lab049.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_22082024/Lab049.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_22082024/Lab050.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_22082024/Lab050.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_22082024/Lab051.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_22082024/Lab051.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_22082024/Lab052.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_22082024/Lab052.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_22082024/Lab053.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_22082024/Lab053.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_24082024/Lab054.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_24082024/Lab054.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_24082024/Lab055.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_24082024/Lab055.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_24082024/Lab056.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_24082024/Lab056.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_24082024/Lab057.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_24082024/Lab057.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_24082024/Lab058.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_24082024/Lab058.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_24082024/Lab059.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_24082024/Lab059.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_24082024/Lab060.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_24082024/Lab060.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_24082024/Lab061.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_24082024/Lab061.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_24082024/Lab062.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_24082024/Lab062.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_24082024/Lab063.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_24082024/Lab063.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_24082024/Lab064.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_24082024/Lab064.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_24082024/Lab065.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_24082024/Lab065.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_24082024/Lab066.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_24082024/Lab066.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_24082024/Lab067.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_24082024/Lab067.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27082024/Lab068.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_27082024/Lab068.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27082024/Lab069.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_27082024/Lab069.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27082024/Lab070.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_27082024/Lab070.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27082024/Lab071.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_27082024/Lab071.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27082024/Lab072.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_27082024/Lab072.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27082024/Lab073.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_27082024/Lab073.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27082024/Lab074.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_27082024/Lab074.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27082024/Lab075.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_27082024/Lab075.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27082024/Lab076.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_27082024/Lab076.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27082024/Lab077.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_27082024/Lab077.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27082024/Lab078.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_27082024/Lab078.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27082024/Lab079.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_27082024/Lab079.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27082024/Lab080.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_27082024/Lab080.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27082024/Lab081.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_27082024/Lab081.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27082024/Lab082.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_27082024/Lab082.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27082024/Lab083.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_27082024/Lab083.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27082024/Lab084.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_27082024/Lab084.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27082024/Lab085.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_27082024/Lab085.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27082024/Lab086.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_27082024/Lab086.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_27082024/Lab087.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_27082024/Lab087.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_29082024/Lab088.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_29082024/Lab088.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_29082024/Lab089.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_29082024/Lab089.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_29082024/Lab090.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_29082024/Lab090.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_29082024/Lab091.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_29082024/Lab091.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_29082024/Lab092.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_29082024/Lab092.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_29082024/Lab093.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_29082024/Lab093.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_29082024/Lab094.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_29082024/Lab094.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_29082024/Lab095.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_29082024/Lab095.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_29082024/Lab096.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_29082024/Lab096.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_29082024/Lab097.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_29082024/Lab097.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_29082024/Lab098.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_29082024/Lab098.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_29082024/Lab099.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_29082024/Lab099.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_29082024/Lab100.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_29082024/Lab100.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_29082024/Lab101.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_29082024/Lab101.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_29082024/Lab102.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_29082024/Lab102.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_29082024/Lab103.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_29082024/Lab103.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_29082024/Lab104.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_29082024/Lab104.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_29082024/Lab105.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_29082024/Lab105.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_29082024/Lab106.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_29082024/Lab106.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_29082024/Lab107.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_29082024/Lab107.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_29082024/Lab108.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_29082024/Lab108.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_31082024/Lab109.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_31082024/Lab109.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_31082024/Lab110.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_31082024/Lab110.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_31082024/Lab111.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_31082024/Lab111.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_31082024/Lab112.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_31082024/Lab112.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,11 +299,26 @@
     "Python.Lab110.executor": "Run",
     "Python.Lab111.executor": "Run",
     "Python.Lab112.executor": "Run",
+    "Python.Lab113.executor": "Run",
+    "Python.Lab114.executor": "Run",
+    "Python.Lab115.executor": "Run",
+    "Python.Lab116.executor": "Run",
+    "Python.Lab117.executor": "Run",
+    "Python.Lab118.executor": "Run",
+    "Python.Lab119.executor": "Run",
+    "Python.Lab120.executor": "Run",
+    "Python.Lab121.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nisan\PycharmProjects\PyATB4xLearning\src\Aug" />
+      <recent name="C:\Users\nisan\PycharmProjects\PyATB4xLearning\src" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Home_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xLearning" />
@@ -346,7 +491,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727894211304</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="homework files for the 31st Aug 2024 added">
+      <option name="closed" value="true" />
+      <created>1728050178488</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1728050178488</updated>
+    </task>
+    <task id="LOCAL-00015" summary="class files for the 31st Aug 2024 added">
+      <option name="closed" value="true" />
+      <created>1728050357564</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1728050357564</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -362,23 +523,25 @@
     <MESSAGE value="Homework files for the 24th Aug 2024 added" />
     <MESSAGE value="class files for the 29th Aug 2024 added" />
     <MESSAGE value="homework files for the 29th Aug 2024 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework files for the 29th Aug 2024 added" />
+    <MESSAGE value="homework files for the 31st Aug 2024 added" />
+    <MESSAGE value="class files for the 31st Aug 2024 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="class files for the 31st Aug 2024 added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/ex_10082024/Lab012.py</url>
+          <url>file://$PROJECT_DIR$/src/Aug/ex_10082024/Lab012.py</url>
           <line>5</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/ex_10082024/Lab012.py</url>
+          <url>file://$PROJECT_DIR$/src/Aug/ex_10082024/Lab012.py</url>
           <line>4</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/ex_10082024/Lab012.py</url>
+          <url>file://$PROJECT_DIR$/src/Aug/ex_10082024/Lab012.py</url>
           <line>3</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>

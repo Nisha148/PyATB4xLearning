@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba49d5f2-5f13-4f85-90fc-c4a7d7a4813a" name="Changes" comment="class files for the 29th Aug 2024 added">
+    <list default="true" id="ba49d5f2-5f13-4f85-90fc-c4a7d7a4813a" name="Changes" comment="homework files for the 29th Aug 2024 added">
+      <change afterPath="$PROJECT_DIR$/src/Home_Work/Home_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab109.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab110.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab111.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab112.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Home_Work/Home_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Home_Work/Home_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +58,7 @@
     "Python.Home_2.executor": "Run",
     "Python.Home_3.executor": "Run",
     "Python.Home_4.executor": "Run",
+    "Python.Home_5.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab0014.executor": "Run",
     "Python.Lab0015.executor": "Run",
@@ -160,6 +165,10 @@
     "Python.Lab106.executor": "Run",
     "Python.Lab107.executor": "Run",
     "Python.Lab108.executor": "Run",
+    "Python.Lab109.executor": "Run",
+    "Python.Lab110.executor": "Run",
+    "Python.Lab111.executor": "Run",
+    "Python.Lab112.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "preferences.lookFeel"
@@ -329,7 +338,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727892242601</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="homework files for the 29th Aug 2024 added">
+      <option name="closed" value="true" />
+      <created>1727894211304</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1727894211304</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -344,7 +361,8 @@
     <MESSAGE value="Class files for the 24th Aug 2024 added" />
     <MESSAGE value="Homework files for the 24th Aug 2024 added" />
     <MESSAGE value="class files for the 29th Aug 2024 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="class files for the 29th Aug 2024 added" />
+    <MESSAGE value="homework files for the 29th Aug 2024 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework files for the 29th Aug 2024 added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
